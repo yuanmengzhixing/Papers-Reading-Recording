@@ -13,11 +13,11 @@ Chenrui Zhang, Yuxin Peng
 Chenrui Zhang, Yuxin Peng  
 **Memory Attention Networks for Skeleton-based Action Recognition**  
 Chunyu Xie, Ce Li, Baochang Zhang, Chen Chen, Jungong Han, Jianzhuang Liu  
-~~**Human Motion Generation via Cross-Space Constrained Sampling**  ~~
+~~**Human Motion Generation via Cross-Space Constrained Sampling**~~  
 Zhongyue Huang, Jingwei Xu, Bingbing Ni  
 **Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation**  
 Chao Li, Qiaoyong Zhong, Di Xie, Shiliang Pu  
 **Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks**  
 Feiwu Yu, Xinxiao Wu, Yuchao Sun, Lixin Duan  
-~~**Predicting Activity and Location with Multi-task Context Aware Recurrent Neural Network**  ~~
+~~**Predicting Activity and Location with Multi-task Context Aware Recurrent Neural Network**~~  
 Dongliang Liao, Weiqing Liu, Yuan Zhong, Jing Li, Guowei Wang  
