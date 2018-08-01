@@ -1,4 +1,4 @@
-# Papers-Reading
+# Papers-Reading-Recording
 **对一些计算机视觉/深度学习/机器学习相关方向的论文进行整理**
 
 ## IJCAI 2018( Action & Video )
