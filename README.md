@@ -6,10 +6,12 @@
 **Key Words**: GAN & Zero-Shot Learning & Video Classfication  
 [Memory Attention Networks for Skeleton-based Action Recognition](IJCAI2018/2018_0802.md)   
 **Key Words**: CNNs(ResNet) & RNNs(GRU) & Attention  
+[Watching a Small Portion could be as Good as Watching All:Towards Efficient Video Classification](IJCAI2018/2018_0804.md)  
+**Key Words**: RNNs(GRU) && Reinforcement  
 
 **Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification**  
 Chenrui Zhang, Yuxin Peng  
- **Watching a Small Portion could be as Good asWatching All: Towards Efficient Video Classification**  
+ ****  
 
 ~~**Human Motion Generation via Cross-Space Constrained Sampling**~~  
 Zhongyue Huang, Jingwei Xu, Bingbing Ni  
