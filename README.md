@@ -8,7 +8,7 @@
 **Key Words**: CNNs(ResNet) & RNNs(GRU) & Attention  
 [Watching a Small Portion could be as Good as Watching All:Towards Efficient Video Classification](IJCAI2018/2018_0804.md)  
 **Key Words**: RNNs(GRU) && Reinforcement  
-[Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation](IJCAI2018/2018_0804.md)  
+[Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation](IJCAI2018/2018_0808.md)  
 **（Reading comprehension difficulties）**  
 Chao Li, Qiaoyong Zhong, Di Xie, Shiliang Pu  
 **Predicting Activity and Location with Multi-task Context Aware Recurrent Neural Network**  
